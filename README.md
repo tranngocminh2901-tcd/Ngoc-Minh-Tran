@@ -28,6 +28,7 @@ Exploring retail order data through data analysis and visualisation to identify 
 [View Project →](./01_Data_Analytics/)
 
 <img width="887" height="498" alt="image" src="https://github.com/user-attachments/assets/bb1fb513-b8ae-46fb-af31-8ca8467f95b2" />
+
 ### 03. Operations Analytics | Python
 
 Using analytical methods and Python to investigate operational problems and support evidence-based decision-making.
@@ -41,7 +42,7 @@ Applying supply chain network modelling and simulation to explore network design
 
 [View Project →](./04_AnyLogistix/)
 
-### 05. Digital Twin Simulation & Food Waste Reduction | Vensim (System Dynamics)
+### 05. Business Simulation (As-is/To-be) | Vensim (System Dynamics) · Draw.io
 
 A dissertation research project comparing static Excel-based inventory planning with Digital Twin-informed planning for food waste reduction in FMCG chocolate confectionery distribution in Vietnam.
 
