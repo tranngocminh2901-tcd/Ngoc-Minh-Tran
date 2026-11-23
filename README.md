@@ -41,8 +41,7 @@ Applying supply chain network modelling and simulation to explore network design
 
 [View Project →](./04_AnyLogistix/)
 
-### 05. Digital Twin & Food Waste Reduction
-**Tools:** Vensim · System Dynamics
+### 05. Digital Twin & Food Waste Reduction | Vensim (System Dynamics)
 
 A dissertation research project comparing static Excel-based inventory planning with Digital Twin-informed planning for food waste reduction in FMCG chocolate confectionery distribution in Vietnam.
 
