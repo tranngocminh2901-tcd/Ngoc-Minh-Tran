@@ -8,7 +8,7 @@ I am a Supply Chain professional with 7+ years of experience across FMCG, logist
 
 My interests lie at the intersection of **Supply Chain Management, Data Analytics, and Business Process Improvement**. I enjoy using data and analytical tools to understand operational challenges, evaluate performance, and support better business decisions.
 
-I graduated from Trinity College Dublin with **MSc Distinction (71%)**, ranked **2nd in my cohort**.
+I graduated from Trinity College Dublin with **MSc Distinction (71%)**
 
 ---
 
@@ -19,13 +19,13 @@ Selected projects completed during my MSc in Operations and Supply Chain Managem
 ### 01. Business Analytics | Excel · Tableau
 
 Applying business analytics techniques, data preparation, descriptive analytics, and visualisation to transform data into actionable insights.
-[View Code & Report →](./02_Business_Analytics/)
+[View Project→](./02_Business_Analytics/)
 
 <img width="1878" height="741" alt="image" src="https://github.com/user-attachments/assets/a51df8fa-cb9b-4f47-a69e-f75dcce0df5d" />
 
 ### 02. Data Analysis | SQL · Python · Power BI
 Exploring retail order data through data analysis and visualisation to identify operational patterns and support data-driven decision-making.
-[View Code & Report →](./01_Data_Analytics/)
+[View Project →](./01_Data_Analytics/)
 
 <img width="887" height="498" alt="image" src="https://github.com/user-attachments/assets/bb1fb513-b8ae-46fb-af31-8ca8467f95b2" />
 ### 03. Operations Analytics | Python
@@ -33,6 +33,7 @@ Exploring retail order data through data analysis and visualisation to identify 
 Using analytical methods and Python to investigate operational problems and support evidence-based decision-making.
 
 [View Project →](./03_Operations_Analytics/)
+<img width="853" height="744" alt="Ops Analytics - Unilever B2B Ecommerce" src="https://github.com/user-attachments/assets/a5488c24-49c5-487f-8a92-0ad752ee1eae" />
 
 ### 04. Supply Chain Network Simulation | anyLogistix
 
@@ -48,37 +49,14 @@ A dissertation research project comparing static Excel-based inventory planning 
 The simulation study explored how dynamic pricing and food bank donation mechanisms could influence inventory waste and distribution performance.
 
 [View Project →](./05_Vensim_System_Dynamics/)
+<img width="452" height="245" alt="image" src="https://github.com/user-attachments/assets/7e3d3b65-03e5-40d1-82d1-81e6d94883ec" />
 
 ---
 
-## 💼 Professional Background
+## 📫 Connect with me
 
-**DKSH Vietnam** – Supply Chain Business Partner / Project Management  
-**Unilever Vietnam** – Logistics Assistant Manager  
-**DHL eCommerce Solutions Vietnam** – Nationwide Supervisor & Retail Operations
-
-Over 7 years of experience in:
-- Supply Chain Operations & Logistics Management
-- Process Improvement & Project Coordination
-- Cost-to-Serve Analysis
-- KPI Performance Management
-- Master Data & Workflow Standardisation
-- Cross-functional Stakeholder Management
-
----
-
-## 🎓 Education
-
-**Trinity College Dublin – Trinity Business School**  
-MSc Operations and Supply Chain Management  
-**Distinction | 71% | Ranked 2nd in Cohort**
-
----
-
-## 📫 Connect with Me
-
-- LinkedIn: [Add your LinkedIn profile URL]
-- Email: [Add your professional email address]
+- LinkedIn: https://www.linkedin.com/in/minhtrans/
+- Email: tranngocminh2901@gmai.com
 
 ---
 
