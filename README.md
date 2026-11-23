@@ -23,7 +23,7 @@ Selected projects completed during my MSc in Operations and Supply Chain Managem
 
 Exploring retail order data through data analysis and visualisation to identify operational patterns and support data-driven decision-making.
 
-[View Project →](./01_Retail_Order_Analytics/)
+[View Project →](./01_Data_Analytics/)
 
 ### 02. Business Analytics
 **Tools:** Microsoft Excel · Tableau
