@@ -18,14 +18,14 @@ Selected projects completed during my MSc in Operations and Supply Chain Managem
 
 ### 01. Data Analysis | SQL · Python · Power BI
 Exploring retail order data through data analysis and visualisation to identify operational patterns and support data-driven decision-making.
-[View Project →](./01_Data_Analytics/)
+[View Code & Report →](./01_Data_Analytics/)
 
 <img width="887" height="498" alt="image" src="https://github.com/user-attachments/assets/bb1fb513-b8ae-46fb-af31-8ca8467f95b2" />
 
 ### 02. Business Analytics | Excel · Tableau
 
 Applying business analytics techniques, data preparation, descriptive analytics, and visualisation to transform data into actionable insights.
-[View Project →](./02_Business_Analytics/)
+[View Code & Report →](./02_Business Analytics/)
 
 <img width="1878" height="741" alt="image" src="https://github.com/user-attachments/assets/a51df8fa-cb9b-4f47-a69e-f75dcce0df5d" />
 
