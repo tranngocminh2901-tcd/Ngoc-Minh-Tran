@@ -40,7 +40,7 @@ Applying supply chain network modelling and simulation to explore network design
 
 [View Project →](./04_AnyLogistix/)
 
-### 05. Business Simulation (As-is/To-be) | Vensim (System Dynamics) · Draw.io
+### 05. Business Process Mapping & Simulation | As-is/To-be · Vensim · Draw.io
 
 A dissertation research project comparing static Excel-based inventory planning with Digital Twin-informed planning for food waste reduction in FMCG chocolate confectionery distribution in Vietnam.
 
