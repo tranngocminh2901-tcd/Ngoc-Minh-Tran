@@ -2,13 +2,11 @@
 
 ### Supply Chain Analyst | Continuous Improvement
 
-MSc in Operations and Supply Chain Management – **Trinity College Dublin**
+MSc in Operations and Supply Chain Management – **Trinity College Dublin (Distinction)**
 
 I am a Supply Chain professional with 7+ years of experience across FMCG, logistics, and distribution operations in Vietnam, complemented by postgraduate training in Operations and Supply Chain Management at Trinity College Dublin.
 
 My interests lie at the intersection of **Supply Chain Management, Data Analytics, and Business Process Improvement**. I enjoy using data and analytical tools to understand operational challenges, evaluate performance, and support better business decisions.
-
-I graduated from Trinity College Dublin with **MSc Distinction (71%)**
 
 ---
 
