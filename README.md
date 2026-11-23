@@ -30,8 +30,8 @@ Exploring retail order data through data analysis and visualisation to identify 
 ### 03. Operations Analytics | Python
 
 Using analytical methods and Python to investigate operational problems and support evidence-based decision-making.
-
 [View Project →](Gro247_Order_Cancellation_Analysis.ipynb)
+
 <img width="853" height="744" alt="Ops Analytics - Unilever B2B Ecommerce" src="https://github.com/user-attachments/assets/a5488c24-49c5-487f-8a92-0ad752ee1eae" />
 
 ### 04. Supply Chain Network Simulation | anyLogistix
