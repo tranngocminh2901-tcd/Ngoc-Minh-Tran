@@ -38,14 +38,13 @@ Using analytical methods and Python to investigate operational problems and supp
 
 Applying supply chain network modelling and simulation to explore network design and operational decision-making.
 
-[View Project →](./04_AnyLogistix/)
+<img width="307" height="347" alt="image" src="https://github.com/user-attachments/assets/67d4e07c-68e7-4e98-a781-7c651cec5db5" />
 
 ### 05. Business Process Mapping & Simulation | As-is/To-be · Vensim · Draw.io
 
 A dissertation research project comparing static Excel-based inventory planning with Digital Twin-informed planning for food waste reduction in FMCG chocolate confectionery distribution in Vietnam.
 
 The simulation study explored how dynamic pricing and food bank donation mechanisms could influence inventory waste and distribution performance.
-[View Project →](./05_Vensim_System_Dynamics/)
 
 <img width="452" height="245" alt="image" src="https://github.com/user-attachments/assets/7e3d3b65-03e5-40d1-82d1-81e6d94883ec" />
 <img width="940" height="706" alt="image" src="https://github.com/user-attachments/assets/b8ffc067-26fb-40db-bf3c-95ba41e1d812" />
