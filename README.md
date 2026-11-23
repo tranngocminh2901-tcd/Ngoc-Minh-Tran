@@ -25,7 +25,7 @@ Exploring retail order data through data analysis and visualisation to identify 
 ### 02. Business Analytics | Excel · Tableau
 
 Applying business analytics techniques, data preparation, descriptive analytics, and visualisation to transform data into actionable insights.
-[View Code & Report →](./02_Business Analytics/)
+[View Code & Report →](./02_Business_Analytics/)
 
 <img width="1878" height="741" alt="image" src="https://github.com/user-attachments/assets/a51df8fa-cb9b-4f47-a69e-f75dcce0df5d" />
 
