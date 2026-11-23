@@ -47,8 +47,8 @@ Applying supply chain network modelling and simulation to explore network design
 A dissertation research project comparing static Excel-based inventory planning with Digital Twin-informed planning for food waste reduction in FMCG chocolate confectionery distribution in Vietnam.
 
 The simulation study explored how dynamic pricing and food bank donation mechanisms could influence inventory waste and distribution performance.
-
 [View Project →](./05_Vensim_System_Dynamics/)
+
 <img width="452" height="245" alt="image" src="https://github.com/user-attachments/assets/7e3d3b65-03e5-40d1-82d1-81e6d94883ec" />
 
 ---
