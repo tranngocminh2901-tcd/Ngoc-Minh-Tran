@@ -49,6 +49,7 @@ The simulation study explored how dynamic pricing and food bank donation mechani
 [View Project →](./05_Vensim_System_Dynamics/)
 
 <img width="452" height="245" alt="image" src="https://github.com/user-attachments/assets/7e3d3b65-03e5-40d1-82d1-81e6d94883ec" />
+<img width="940" height="706" alt="image" src="https://github.com/user-attachments/assets/b8ffc067-26fb-40db-bf3c-95ba41e1d812" />
 
 ---
 
