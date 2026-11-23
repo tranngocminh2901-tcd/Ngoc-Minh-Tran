@@ -16,14 +16,11 @@ I graduated from Trinity College Dublin with **MSc Distinction (71%)**, ranked *
 
 Selected projects completed during my MSc in Operations and Supply Chain Management at Trinity Business School, Trinity College Dublin.
 
-### 01. Data Analysis
-<img width="887" height="498" alt="image" src="https://github.com/user-attachments/assets/bb1fb513-b8ae-46fb-af31-8ca8467f95b2" />
-
-**Tools:** SQL · Python · Power BI
-
+### 01. Data Analysis | SQL · Python · Power BI
 Exploring retail order data through data analysis and visualisation to identify operational patterns and support data-driven decision-making.
-
 [View Project →](./01_Data_Analytics/)
+
+<img width="887" height="498" alt="image" src="https://github.com/user-attachments/assets/bb1fb513-b8ae-46fb-af31-8ca8467f95b2" />
 
 ### 02. Business Analytics
 **Tools:** Microsoft Excel · Tableau
