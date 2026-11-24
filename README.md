@@ -54,7 +54,7 @@ The simulation study explored how dynamic pricing and food bank donation mechani
 ## 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/minhtrans/
-- Email: tranngocminh2901@gmai.com
+- Email: tranngocminh2901@gmail.com
 
 ---
 
